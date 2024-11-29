@@ -14,9 +14,7 @@ A simple and intuitive Weather App to check the current weather conditions for y
   - Humidity
   - Cloudiness
 
-## Preview
 
-![Weather App Screenshot](./Images/app-preview.png)
 
 ## Tech Stack
 
